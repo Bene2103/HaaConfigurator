@@ -1,5 +1,5 @@
 # HaaConfigurator
-Small tool to generate MELPHAA JSON config for HAA by RavenSystem
+Small tool to generate MEPLHAA JSON config for HAA by RavenSystem
 
 My goal is to get this working with (hopefully) every feature which haa supports, but i think its still a long way :-)
 
