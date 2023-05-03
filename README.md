@@ -10,4 +10,5 @@ My goal is to get this working with (hopefully) every feature which haa supports
 ![image](https://user-images.githubusercontent.com/46553509/235885927-99e6f450-ac61-4ebe-b89e-b6a4952734ed.png)
 
 
-If you like this tool and want to support me -> <a href="https://www.paypal.me/Bene2103Git">Buy me a coffee :-)</a>
+If you like this tool and want to support me -> <a href="https://paypal.me/Bene2103Git?country.x=DE&locale.x=de_DE">Buy me a coffee :-)</a>
+
