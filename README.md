@@ -3,7 +3,7 @@ Small tool to generate MEPLHAA JSON config for <a href="https://github.com/Raven
 
 My goal is to get this working with (hopefully) every feature which haa supports, but i think its still a long way :-)
 
-![image](https://user-images.githubusercontent.com/46553509/235886031-7570213d-0039-4e21-9049-b1e3385e5872.png)
+![image](https://user-images.githubusercontent.com/46553509/236427687-a42f6cec-04ea-44dc-a5c1-619a83178912.png)
 
 ![image](https://user-images.githubusercontent.com/46553509/235885895-0402e6db-2abb-4906-b460-ae4f6446c7e6.png)
 
